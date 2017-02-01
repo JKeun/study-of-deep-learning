@@ -67,5 +67,5 @@ Hello, TensorFlow!
 >>>
 ```
 
-#### Deactivate the environment.
+#### Deactivate the environment:
 `$ pyenvv deactivate`
