@@ -71,7 +71,7 @@ Hello, TensorFlow!
 `$ pyenvv deactivate`
 
 
-## Jupyter Notebook install
+## Jupyter Notebook installation
 ```
 $ pip install Jupyter
 $ jupyter notebook
