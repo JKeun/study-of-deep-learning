@@ -69,3 +69,10 @@ Hello, TensorFlow!
 
 #### Deactivate the environment:
 `$ pyenvv deactivate`
+
+
+## Jupyter Notebook install
+```
+$ pip install Jupyter
+$ jupyter notebook
+```
